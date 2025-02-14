@@ -1,0 +1,1 @@
+The code regarding to this project includes forward and backward projection functions mathematically based on radon and inverse radon transforms. A GUI is utilized to provide easier user interface to run the code.
